@@ -1,0 +1,1 @@
+/root/lab1/rcore_learn/lab1/target/riscv64gc-unknown-none-elf/debug/os: /root/lab1/rcore_learn/lab1/src/console.rs /root/lab1/rcore_learn/lab1/src/entry.asm /root/lab1/rcore_learn/lab1/src/lang_items.rs /root/lab1/rcore_learn/lab1/src/main.rs /root/lab1/rcore_learn/lab1/src/sbi.rs
